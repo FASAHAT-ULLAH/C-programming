@@ -7,11 +7,11 @@
 
 int main()
 {
-printf("Full Name :Mohammed Zakir\n");
+printf("Name:Fasahatullah.A.Q.\n");
 printf("Age\t  :18\n");
 printf("Class\t  :FE\n");
 printf("Division  :A\n");
-printf("UIN\t  :241A007");
+printf("UIN\t  :241A057");
 return 0;
 }
 /*Full Name :Mohammed Zakir
