@@ -7,14 +7,14 @@
 
 int main()
 {
-printf("Full Name :Mohammed Zakir\n");
+printf("Full Name :Fasahatullah .A.Q.\n");
 printf("Age\t  :18\n");
 printf("Class\t  :FE\n");
 printf("Division  :A\n");
-printf("UIN\t  :241A007");
+printf("UIN\t  :241A057");
 return 0;
 }
-/*Full Name :Mohammed Zakir
+/*Full Name :FASAHATULLAH ATAURRUB QURAISHI. 
 Age       :18
 Class     :FE
 Division  :A
