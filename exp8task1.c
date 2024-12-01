@@ -1,8 +1,4 @@
-/*Aim : WAP to find the length of a string without using library function.
-Name : Raj Maurya
-Roll no : 08
-UIN : 241A008
-Division : A*/
+/*Aim : WAP to find the length of a string without using library function.*/
 #include<stdio.h>
 int main()
 {
